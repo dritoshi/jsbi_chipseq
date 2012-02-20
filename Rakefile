@@ -18,7 +18,7 @@ File.open("./config.yaml") {|io|
 
 desc "00: Convert BED to BioC RangedData"
 task :bed2rangedData do
-  sh "R -q -f bin/00bed2rangedData"
+  sh "R -q -f bin/00bed2rangedData.r"
 end
 
 ## Annotation and enriched GO 
