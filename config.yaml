@@ -1,0 +1,9 @@
+dir:
+    results: results
+    input: input
+    lib: lib
+    test: test
+    bin: bin
+    logs: logs
+    doc: doc
+    common_data: common_data

@@ -1,7 +1,6 @@
 base_dir = Dir.pwd
 $LOAD_PATH.push("#{base_dir}/lib")
 
-require 'sge'
 require "yaml"
 require "pp"
 
