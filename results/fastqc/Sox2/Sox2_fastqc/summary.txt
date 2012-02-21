@@ -1,0 +1,11 @@
+PASS	Basic Statistics	Sox2.fastq
+FAIL	Per base sequence quality	Sox2.fastq
+PASS	Per sequence quality scores	Sox2.fastq
+WARN	Per base sequence content	Sox2.fastq
+PASS	Per base GC content	Sox2.fastq
+PASS	Per sequence GC content	Sox2.fastq
+PASS	Per base N content	Sox2.fastq
+PASS	Sequence Length Distribution	Sox2.fastq
+PASS	Sequence Duplication Levels	Sox2.fastq
+WARN	Overrepresented sequences	Sox2.fastq
+WARN	Kmer Content	Sox2.fastq

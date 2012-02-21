@@ -1,0 +1,11 @@
+PASS	Basic Statistics	Oct4.fastq
+FAIL	Per base sequence quality	Oct4.fastq
+PASS	Per sequence quality scores	Oct4.fastq
+WARN	Per base sequence content	Oct4.fastq
+PASS	Per base GC content	Oct4.fastq
+PASS	Per sequence GC content	Oct4.fastq
+PASS	Per base N content	Oct4.fastq
+PASS	Sequence Length Distribution	Oct4.fastq
+PASS	Sequence Duplication Levels	Oct4.fastq
+WARN	Overrepresented sequences	Oct4.fastq
+WARN	Kmer Content	Oct4.fastq
